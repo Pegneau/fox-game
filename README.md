@@ -10,10 +10,8 @@ This is my personal repository for the Fox Game project. Inside, you'll find my 
 
 ### Acknowledgments
 
-This project was developed as part of a learning path based on the original course by Frontend Masters and Brian Holt.
+This project was developed as part of a learning path based on the original course by [Frontend Masters][fem] and [Brian Holt][site].
 
 [fem]: https://frontendmasters.com/
 [site]: https://btholt.github.io/project-fox-game-site/
-[cc]: https://creativecommons.org/licenses/by-nc/4.0/legalcode
-[apache]: https://www.apache.org/licenses/LICENSE-2.0.txt
 [game]: https://btholt.github.io/project-files-for-fox-game/
