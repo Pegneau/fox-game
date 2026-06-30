@@ -37,6 +37,7 @@ body {
   width: 628px;
   height: 577px;
   position: absolute;
+  left: 65px;
   top: 62px;
   bottom: 67px;
 }
@@ -61,7 +62,7 @@ body {
   width: 228px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: sp;
 }
 
 .icons {
@@ -90,6 +91,10 @@ body {
   right: 0;
   background-color: blueviolet;
   color: white;
+  padding: 25px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 12px;
 }
 
 .modal:empty {
