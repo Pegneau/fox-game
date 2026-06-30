@@ -1,0 +1,28 @@
+{
+  "name": "fox-game",
+  "version": "1.0.0",
+  "description": "This is my personal repository for the Fox Game project. Inside, you'll find my implementation, code progression, and local experiments building this virtual pet game.",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pegneau/fox-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pegneau/fox-game/issues"
+  },
+  "homepage": "https://github.com/Pegneau/fox-game#readme",
+  "devDependencies": {
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-import": "^2.32.0",
+    "jest": "^30.4.2",
+    "parcel": "^2.16.4",
+    "prettier": "^3.9.4"
+  }
+}
